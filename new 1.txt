@@ -11,9 +11,13 @@
     <style>
 	  body {
 			background-color:#B5CB99
-	}
+			}
+			
 	  h1 { font-family: 'IBM Plex Serif', serif;
+	  background-color:#FCE09B
+	  color: #B2533E
 	  }
+	  
 	  p1 {  
 	  font-family: 'IBM Plex Serif', serif;
 	  
