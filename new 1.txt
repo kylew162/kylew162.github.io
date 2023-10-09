@@ -14,8 +14,9 @@
 			}
 			
 	  h1 { font-family: 'IBM Plex Serif', serif;
+	  color: #B2533E;
 	  background-color:#FCE09B
-	  color: #B2533E
+	  color: #B2533E;
 	  }
 	  
 	  p1 {  
